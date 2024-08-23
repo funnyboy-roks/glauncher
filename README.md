@@ -1,4 +1,4 @@
-# glauncher
+# glauncher (WIP)
 
 A program launcher for Linux, inspired by [ULauncher](https://ulauncher.io/)
 
